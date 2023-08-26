@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Achal Gher</h1>
-<h3 align="center">A passionate Computer Science Engineer</h3>
+<h3 align="center">A passionate Computer Science Engineer. Eager to bring fresh perspectives and a keen problem-solving mindset to innovative tech solutions. Always ready to learn, adapt, and contribute to team success.
+
+</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
